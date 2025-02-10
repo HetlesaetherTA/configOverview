@@ -10,3 +10,5 @@ This repo serves as an overview and guide on how to use my dev environment
 [Skhd](https://github.com/HetlesaetherTA/skhd) - Shortcut manager for MacOS 
 
 [Nvim](https://github.com/HetlesaetherTA/nvim) - Neovim config
+
+[Tmux](https://github.com/HetlesaetherTA/tmux) - Tmux config
