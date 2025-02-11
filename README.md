@@ -1,4 +1,4 @@
-# configOverview
+# configOverview/services
 This repo serves as an overview and guide on how to use my dev environment 
 
 
@@ -12,3 +12,7 @@ This repo serves as an overview and guide on how to use my dev environment
 [Nvim](https://github.com/HetlesaetherTA/nvim) - Neovim config
 
 [Tmux](https://github.com/HetlesaetherTA/tmux) - Tmux config
+
+# Services
+
+[Keka] "brew install --cask keka" - Winrar for macos
